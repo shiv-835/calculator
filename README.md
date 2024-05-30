@@ -29,6 +29,3 @@ You need a web browser to run this application.
     cd calculator
     ```
 3. Open the `index.html` file in your web browser to run the application.
-
-## File Structure
-
